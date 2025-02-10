@@ -2,122 +2,61 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_)
+# Static Analysis Demo
 
-There should be whitespace between paragraphs.
+In this demo, I performed static malware analysis on a keylogger executable and Python script to identify its functionality and potential threats without executing it. By extracting metadata, analyzing embedded strings, and verifying hashes against threat intelligence databases, I uncovered key indicators of compromise (IOCs) and assessed the malware’s behavior.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Key Steps:
 
-# Header 1
+Keylogger Creation & Analysis: Developed a basic keylogger to understand how malicious keylogging software is structured.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Executable & Python Script Analysis: Examined PE headers and imports.
 
-## Header 2
+Hash Analysis: Generated MD5, SHA-256 hashes and cross-referenced them with open-source threat intelligence platforms (VirusTotal).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Embedded String Extraction: Used strings analysis to uncover potential file paths.
 
+Threat Intelligence Correlation: Checked the MD5 hash in public databases to see if it matched any known malware signatures.
+Key Takeaways:
+
+Identified static indicators of a keylogger.
+
+Demonstrated low-risk malware analysis techniques that can be applied in real-world security operations.
+
+Validated findings using open-source intelligence (OSINT) tools to strengthen detection capabilities.
+
+Navigate to the below link for the full walk-through.
+[Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_)
+
+## Dynamic Analysis Demo
+
+In this demo, I performed dynamic malware analysis on a keylogger executable and Python script, observing its real-time behavior in a sandboxed environment while also testing its ability to bypass Windows Defender and built-in security mechanisms. This included analyzing process execution, file system modifications, network activity, and anti-virus evasion techniques.
+
+Key Steps:
+
+Safe Execution Environment: Deployed the malware in an isolated virtual machine to prevent host system compromise.
+Process Monitoring: Used Process Explorer and ProcMon to track system calls, API hooks, and keystroke logging functionality.
+Windows Defender Evasion:
+Obfuscated the script/executable to avoid signature-based detection.
+Used custom packing techniques to prevent AV detection.
+Tested execution against Windows Defender and noted bypassed security alerts.
+Keylogging Behavior Analysis: Verified that the malware successfully captured keystrokes and logged them without detection.
+
+Key Takeaways:
+
+Successfully bypassed Windows Defender using obfuscation and packing techniques.
+
+Demonstrated how keyloggers operate dynamically, confirming findings from static analysis.
+
+Identified key persistence mechanisms and stealth techniques used by malware.
+
+Gained hands-on experience in behavior-based malware detection and defense evasion tactics.
+
+Navigate to the below link for the full walk-through.
+
+[Dynamic Analysis Demo](https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1)
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
