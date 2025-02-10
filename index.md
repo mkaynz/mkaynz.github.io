@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+Static Analysis(https://youtu.be/vjDuOHOMlJc?si=epKdr4JUbS8qAnaOl).
 
 There should be whitespace between paragraphs.
 
