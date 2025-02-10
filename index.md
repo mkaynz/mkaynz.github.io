@@ -3,9 +3,8 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-       <li class="masthead__menu-item">
-          <a href="(https://youtu.be/vjDuOHOMlJc?si=epKdr4JUbS8qAnaOl)">Static Analysis</a>
-        </li>
+
+[Link](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_)
 
 There should be whitespace between paragraphs.
 
