@@ -5,8 +5,7 @@ layout: default
 
 # Static Analysis Demo
 
-<p>In this demo, I performed static malware analysis on a keylogger executable and Python script to identify its functionality and potential threats without executing it. By extracting metadata, analyzing embedded strings, and verifying hashes against threat intelligence databases, I uncovered key indicators of compromise (IOCs) and assessed the malware’s behavior. 
-<br>
+<p>In this demo, I performed static malware analysis on a keylogger executable and Python script to identify its functionality and potential threats without executing it. By extracting metadata, analyzing embedded strings, and verifying hashes against threat intelligence databases, I uncovered key indicators of compromise (IOCs) and assessed the malware’s behavior. </br>
 Key Steps:
 
 Keylogger Creation & Analysis: Developed a basic keylogger to understand how malicious keylogging software is structured.
@@ -17,8 +16,7 @@ Hash Analysis: Generated MD5, SHA-256 hashes and cross-referenced them with open
 
 Embedded String Extraction: Used strings analysis to uncover potential file paths.
 
-Threat Intelligence Correlation: Checked the MD5 hash in public databases to see if it matched any known malware signatures.
-</br>
+Threat Intelligence Correlation: Checked the MD5 hash in public databases to see if it matched any known malware signatures. </br>
 Key Takeaways:
 
 Identified static indicators of a keylogger.
