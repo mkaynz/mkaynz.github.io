@@ -18,7 +18,7 @@ Hash Analysis: Generated MD5, SHA-256 hashes and cross-referenced them with open
 Embedded String Extraction: Used strings analysis to uncover potential file paths.
 
 Threat Intelligence Correlation: Checked the MD5 hash in public databases to see if it matched any known malware signatures.
-<br>
+</br>
 Key Takeaways:
 
 Identified static indicators of a keylogger.
@@ -28,7 +28,7 @@ Demonstrated low-risk malware analysis techniques that can be applied in real-wo
 Validated findings using open-source intelligence (OSINT) tools to strengthen detection capabilities.
 
 Navigate to the below link for the full walk-through.
-[Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_) 
+[Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_) </p>
 
 ## Dynamic Analysis Demo
 
