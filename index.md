@@ -26,6 +26,7 @@ Demonstrated low-risk malware analysis techniques that can be applied in real-wo
 Validated findings using open-source intelligence (OSINT) tools to strengthen detection capabilities.
 
 Navigate to the below link for the full walk-through.
+
 [Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_) 
 
 ## Dynamic Analysis Demo
