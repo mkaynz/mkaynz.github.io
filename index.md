@@ -5,7 +5,7 @@ layout: default
 
 # Static Analysis Demo
 
-<p>In this demo, I performed static malware analysis on a keylogger executable and Python script to identify its functionality and potential threats without executing it. By extracting metadata, analyzing embedded strings, and verifying hashes against threat intelligence databases, I uncovered key indicators of compromise (IOCs) and assessed the malware’s behavior. </br>
+In this demo, I performed static malware analysis on a keylogger executable and Python script to identify its functionality and potential threats without executing it. By extracting metadata, analyzing embedded strings, and verifying hashes against threat intelligence databases, I uncovered key indicators of compromise (IOCs) and assessed the malware’s behavior. </br>
 Key Steps:
 
 Keylogger Creation & Analysis: Developed a basic keylogger to understand how malicious keylogging software is structured.
@@ -26,11 +26,11 @@ Demonstrated low-risk malware analysis techniques that can be applied in real-wo
 Validated findings using open-source intelligence (OSINT) tools to strengthen detection capabilities.
 
 Navigate to the below link for the full walk-through.
-[Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_) </p>
+[Static Analysis Demo](https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_) 
 
 ## Dynamic Analysis Demo
 
-<p>In this demo, I performed dynamic malware analysis on a keylogger executable and Python script, observing its real-time behavior in a sandboxed environment while also testing its ability to bypass Windows Defender and built-in security mechanisms. This included analyzing process execution, file system modifications, network activity, and anti-virus evasion techniques.
+In this demo, I performed dynamic malware analysis on a keylogger executable and Python script, observing its real-time behavior in a sandboxed environment while also testing its ability to bypass Windows Defender and built-in security mechanisms. This included analyzing process execution, file system modifications, network activity, and anti-virus evasion techniques.
 
 Key Steps:
 
@@ -52,7 +52,8 @@ Gained hands-on experience in behavior-based malware detection and defense evasi
 
 Navigate to the below link for the full walk-through.
 
-[Dynamic Analysis Demo](https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1) </p>
+[Dynamic Analysis Demo](https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1) 
+
 ### Header 3
 
 
