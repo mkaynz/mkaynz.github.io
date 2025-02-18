@@ -68,4 +68,19 @@ Navigate to the below link for the full walk-through.
 [Dynamic Analysis Demo](https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1) 
 
 
+# Coffee Chats | OCI, APEX, SQL
+
+* 	Developed a matching app using Oracle APEX to facilitate weekly virtual dates by randomly pairing users based on preferences and availability.
+* 	Created random pairing algorithms with SQL to ensure a dynamic and engaging match experience, ensuring no repeat pairings and leveraging user preferences for better matches.
+* 	 Designed and optimized SQL queries for retrieving and updating user profiles, match histories, and pairing statuses, ensuring performance scalability as the app grew.
+
+# Secure Cloud Architectures: OCI IAM and WAF
+
+* 	Designed and implemented a comprehensive cloud security architecture using OCI Cloud Guard, IAM policies, and Web Application Firewalls (WAFs) to protect cloud infrastructure and applications from security threats.
+* 	Leveraged OCI Cloud Guard to proactively monitor and detect potential security risks across cloud resources, automating threat identification and remediation actions.
+* 	Developed and enforced role-based access controls (RBAC) through OCI IAM policies, ensuring secure, granular access management and aligning permissions with the principle of least privilege.
+* 	Configured Web Application Firewalls (WAFs) to safeguard web applications from common threats like SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attacks.
+
+
+
 
