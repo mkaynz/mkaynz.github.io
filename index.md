@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# Emphasis on AI and ML security in the Public Sector
+
+Created a blog post that highlights the increasing adoption of AI and machine learning (ML) in the public sector and its transformative impact on government operations, citizen services, and policy-making. It explores how Oracle Cloud’s AI/ML solutions help address challenges like data security, scalability, and compliance, enabling government agencies to enhance efficiency, automate processes, and improve public service delivery. As AI continues to shape society, governments must stay ahead by leveraging cutting-edge technology to drive innovation and better serve their communities.
+
+[Navigate to Linkedin to read my blog post on this topic]([https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_](https://www.linkedin.com/pulse/emphasis-ai-ml-security-public-sector-mckenzie-holliday-frnge/?trackingId=skewJDRdoTH1CUvrD3x9lw%3D%3D) 
+
+
 # Deploying an OCI Web Application Firewall 
 
 Created a blog that walks through the process of configuring a load balancer for a web server hosted on an Oracle Cloud compute instance and securing it with OCI Web Application Firewall (WAF) as part of a comprehensive security strategy. The blog will be published soon after the publishing process is complete. I will link it in this website once this process is over.
