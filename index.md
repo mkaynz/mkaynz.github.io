@@ -2,6 +2,12 @@
 layout: default
 ---
 
+### Deploying an OCI Web Application Firewall 
+
+Created a blog that walks through the process of configuring a load balancer for a web server hosted on an Oracle Cloud compute instance and securing it with OCI Web Application Firewall (WAF) as part of a comprehensive security strategy. The blog will be published soon after the publishing process is complete. I will link it in this website once this process is over.
+
+
+
 
 # Static Analysis Demo
 
@@ -62,8 +68,6 @@ Key Takeaways:
 Navigate to the below link for the full walk-through.
 
 [Dynamic Analysis Demo](https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1) 
-
-### Header 3
 
 
 
