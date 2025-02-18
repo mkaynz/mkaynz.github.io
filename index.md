@@ -85,6 +85,8 @@ Navigate to the below link for the full walk-through.
   
 * 	 Designed and optimized SQL queries for retrieving and updating user profiles, match histories, and pairing statuses, ensuring performance scalability as the app grew.
 
+
+
 # Secure Cloud Architectures: OCI IAM and WAF
 
 * 	Designed and implemented a comprehensive cloud security architecture using OCI Cloud Guard, IAM policies, and Web Application Firewalls (WAFs) to protect cloud infrastructure and applications from security threats.
@@ -94,6 +96,11 @@ Navigate to the below link for the full walk-through.
 * 	Developed and enforced role-based access controls (RBAC) through OCI IAM policies, ensuring secure, granular access management and aligning permissions with the principle of least privilege.
   
 * 	Configured Web Application Firewalls (WAFs) to safeguard web applications from common threats like SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attacks.
+
+The reference architecrure below displays how CloudGuard, IAM polices, etc would be designed in OCI:
+
+![Reference Architecture](/docs/blob/main/Secure%20Architecture.png)
+
 
 
 
