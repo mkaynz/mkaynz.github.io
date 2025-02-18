@@ -97,7 +97,7 @@ Navigate to the below link for the full walk-through.
   
 * 	Configured Web Application Firewalls (WAFs) to safeguard web applications from common threats like SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attacks.
 
-The reference architecrure below displays how CloudGuard, IAM polices, etc would be designed in OCI
+The reference architecture below displays how CloudGuard, IAM polices, etc would be designed in OCI
 
 
 
