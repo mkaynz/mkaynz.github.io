@@ -6,7 +6,9 @@ layout: default
 
 Created a blog post that highlights the increasing adoption of AI and machine learning (ML) in the public sector and its transformative impact on government operations, citizen services, and policy-making. It explores how Oracle Cloud’s AI/ML solutions help address challenges like data security, scalability, and compliance, enabling government agencies to enhance efficiency, automate processes, and improve public service delivery. As AI continues to shape society, governments must stay ahead by leveraging cutting-edge technology to drive innovation and better serve their communities.
 
-[Navigate to Linkedin to read my blog post on this topic]([https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV](https://www.linkedin.com/pulse/emphasis-ai-ml-security-public-sector-mckenzie-holliday-frnge/?trackingId=skewJDRdoTH1CUvrD3x9lw%3D%3D) 
+Navigate to the below link to read my blog post on this topic
+
+[Emphasis on AI and ML security in the Public Sector](https://www.linkedin.com/pulse/emphasis-ai-ml-security-public-sector-mckenzie-holliday-frnge/?trackingId=skewJDRdoTH1CUvrD3x9lw%3D%3D) 
 
 
 # Deploying an OCI Web Application Firewall 
