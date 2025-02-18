@@ -99,7 +99,9 @@ Navigate to the below link for the full walk-through.
 
 The reference architecrure below displays how CloudGuard, IAM polices, etc would be designed in OCI:
 
-<img src="/mkaynz.github.io/Secure Architecture.png"/>
+
+![Reference Architecture](/mkaynz.github.io/docs/assets/Secure Architecture.png)
+
 
 
 
