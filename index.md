@@ -8,7 +8,7 @@ Created a blog post that highlights the increasing adoption of AI and machine le
 
 Navigate to the below link to read my blog post on this topic
 
-[Emphasis on AI and ML security in the Public Sector](https://www.linkedin.com/pulse/emphasis-ai-ml-security-public-sector-mckenzie-holliday-frnge/?trackingId=skewJDRdoTH1CUvrD3x9lw%3D%3D) 
+[Emphasis on AI and ML security in the Public Sector](https://blogs.oracle.com/cloud-infrastructure/post/emphasis-on-aiml-security-in-the-public-sector) 
 
 
 # Deploying an OCI Web Application Firewall 
