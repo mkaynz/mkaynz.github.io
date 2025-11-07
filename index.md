@@ -7,7 +7,7 @@ Created a demo showcasing an agentic AI solution built entirely on OCI. This dem
 
 Navigate to the below link to watch my video on this topic
 
-[Agentic AI Solution on OCI Video](https://objectstorage.us-ashburn-1.oraclecloud.com/p/zjNIBvXd1YTxLMcXFavva5BWUKKdeqwL48QDF-4uH4UiiLNM19NcI9FTybNTobUF/n/idvum1adtfhr/b/AI-demos/o/) 
+[Agentic AI Solution on OCI Video](https://objectstorage.us-ashburn-1.oraclecloud.com/p/e-Be2JuPDlD8UgxIxie6QqLfjGoeDMEuyLrL9CPAmDbbY8l9HTOKHvyyAksolxIP/n/idvum1adtfhr/b/AI-demos/o/oci-odaOCI-AgenticAI.mp4) 
 
 
 
