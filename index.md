@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+# Unlocking Public Sector Innovation: OCI and AI for State and Local Agencies
+
+Created whitepaper exploring how SLED agencies can overcome IT modernization challenges and unlock the full potential of AI using Oracle Cloud Infrastructure.
+
+Navigate to the below link to read my blog post on this topic
+
+[Unlocking Public Sector Innovation: OCI and AI for State and Local Agencies]([https://blogs.oracle.com/cloud-infrastructure/post/emphasis-on-aiml-security-in-the-public-sector](https://blogs.oracle.com/ai-and-datascience/public-sector-innovation-oci-state-and-local-agencies)) 
+
+
+
 # Agnetic AI Solution on OCI
 
 Created a demo showcasing an agentic AI solution built entirely on OCI. This demo includes an agentic AI solution, an architecrure explaination, and how MCP could improve the workflow. 
