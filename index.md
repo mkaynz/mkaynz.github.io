@@ -7,7 +7,7 @@ Created whitepaper exploring how SLED agencies can overcome IT modernization cha
 
 Navigate to the below link to read my blog post on this topic
 
-[Unlocking Public Sector Innovation: OCI and AI for State and Local Agencies]([https://blogs.oracle.com/cloud-infrastructure/post/emphasis-on-aiml-security-in-the-public-sector](https://blogs.oracle.com/ai-and-datascience/public-sector-innovation-oci-state-and-local-agencies)) 
+[Unlocking Public Sector Innovation: OCI and AI for State and Local Agencies](https://blogs.oracle.com/ai-and-datascience/public-sector-innovation-oci-state-and-local-agencies)
 
 
 
