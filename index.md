@@ -11,7 +11,7 @@ Navigate to the below link to read my blog post on this topic
 
 
 
-# Agnetic AI Solution on OCI
+# Agentic AI Solution on OCI
 
 Created a demo showcasing an agentic AI solution built entirely on OCI. This demo includes an agentic AI solution, an architecrure explaination, and how MCP could improve the workflow. 
 
