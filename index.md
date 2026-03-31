@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -182,7 +181,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   </div>
 </nav>
 
-<div style="max-width:940px;margin:0 auto;position:relative;">
+<div style="max-width:960px;margin:0 auto;position:relative;">
   <div class="hero-grid"></div>
 </div>
 
@@ -200,27 +199,27 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   <h2>Who I am</h2>
   <div class="about-grid">
     <div class="about-text">
-      <p>I'm a <strong>Senior Solutions Engineer at Oracle</strong> with 7+ years in cloud infrastructure, pre-sales engineering, and identity & access management. I operate at the intersection of Sales, Customer Success, Product, and Engineering — translating complex technical architecture into clear business value.</p>
+      <p>I'm a Senior Solutions Engineer at Oracle with 7 years in technology. Experience in cloud infrastructure, pre-sales engineering, AI, and security. I operate at the intersection of Sales, Customer Success, Product, and Engineering — translating complex technical architecture into clear business value.</p>
       <br>
-      <p>My work spans <strong>OCI, AWS, and Azure</strong> — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
+      <p>My work spans cloud services and platforms — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
       <br>
     </div>
     <div class="about-stats">
       <div class="stat-card">
-        <div class="stat-num">7+</div>
-        <div class="stat-label">Years in cloud engineering</div>
+        <div class="stat-num">7</div>
+        <div class="stat-label">Years in technology</div>
       </div>
       <div class="stat-card">
         <div class="stat-num">3</div>
         <div class="stat-label">Cloud platforms (OCI, AWS, Azure)</div>
       </div>
       <div class="stat-card">
-        <div class="stat-num">9</div>
-        <div class="stat-label">Published projects & demos</div>
+        <div class="stat-num">2</div>
+        <div class="stat-label">Published blogs</div>
       </div>
       <div class="stat-card">
-        <div class="stat-num">IAM</div>
-        <div class="stat-label">Identity & access management</div>
+        <div class="stat-num">Security Fanatic</div>
+        <div class="stat-label">from cloud securtiy to IAM</div>
       </div>
     </div>
   </div>
@@ -410,20 +409,16 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   <div class="contact-wrap">
     <div class="contact-copy">
       <h3>Let's work together.</h3>
-      <p>Open to senior SE, pre-sales engineering, and cloud architecture roles — especially fully remote opportunities at companies like Datadog, HashiCorp, GitLab, and Cloudflare.</p>
+
     </div>
     <div class="contact-links">
       <a class="contact-link" href="https://mkaynz.github.io" target="_blank">Portfolio ↗</a>
-      <a class="contact-link" href="https://github.com/mkaynz" target="_blank">GitHub ↗</a>
       <a class="contact-link" href="https://linkedin.com" target="_blank">LinkedIn ↗</a>
-      <a class="contact-link" href="mailto:hello@wmckenzie.dev">hello@mckenzie.dev ↗</a>
+      <a class="contact-link" href="mailto:hollidaymckenzie80@gmail.com">hollidaymckenzie80@gmail.com ↗</a>
     </div>
   </div>
 </section>
 
-<footer>
-  <p>Built with intention. McKenzie © 2026.</p>
-</footer>
 
 <script>
 function filter(tag, btn) {
