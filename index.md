@@ -187,7 +187,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
 <div class="hero">
   <div class="hero-tag">Senior Solutions Engineer</div>
   <h2><strong> Building at the<br>edge of <em>cloud</em><br>and complexity.</strong></h2>
-  <p style="color:red;">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
+  <p style="color:white;">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
   <div class="hero-cta">
     <a class="btn btn-primary" href="#projects">View my work</a>
   </div>
@@ -253,7 +253,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-purple">AI</span><span class="tag tag-blue">Public Sector</span><span class="tag tag-green">OCI</span></div>
         <div class="project-title">Unlocking Public Sector Innovation with OCI & AI</div>
-        <p class="project-desc">Whitepaper exploring how state and local government agencies can overcome IT modernization challenges and unlock AI's potential using Oracle Cloud Infrastructure. Published on the Oracle AI & Data Science blog.</p>
+        <p style="color:white;"class="project-desc">Whitepaper exploring how state and local government agencies can overcome IT modernization challenges and unlock AI's potential using Oracle Cloud Infrastructure. Published on the Oracle AI & Data Science blog.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="https://blogs.oracle.com/ai-and-datascience/public-sector-innovation-oci-state-and-local-agencies" target="_blank">Read post ↗</a>
@@ -264,7 +264,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-purple">AI/ML</span><span class="tag tag-orange">Security</span><span class="tag tag-blue">Public Sector</span></div>
         <div class="project-title">AI & ML Security in the Public Sector</div>
-        <p class="project-desc">Blog post on the accelerating adoption of AI and ML across government — covering how Oracle Cloud's AI/ML solutions address data security, scalability, and compliance for public agencies. Explores automation, citizen services, and policy-making at scale.</p>
+        <p style="color:white;"class="project-desc">Blog post on the accelerating adoption of AI and ML across government — covering how Oracle Cloud's AI/ML solutions address data security, scalability, and compliance for public agencies. Explores automation, citizen services, and policy-making at scale.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="https://blogs.oracle.com/cloud-infrastructure/post/emphasis-on-aiml-security-in-the-public-sector" target="_blank">Read post ↗</a>
@@ -275,7 +275,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-orange">IAM</span><span class="tag tag-blue">WAF</span></div>
         <div class="project-title">Secure Cloud Architectures: OCI IAM & WAF</div>
-        <p class="project-desc">Designed a comprehensive cloud security architecture using OCI Cloud Guard, IAM policies, and Web Application Firewalls. Enforced RBAC through granular least-privilege policies and configured WAF rules to defend against SQLi, XSS, and DDoS threats.</p>
+        <p style="color:white;"class="project-desc">Designed a comprehensive cloud security architecture using OCI Cloud Guard, IAM policies, and Web Application Firewalls. Enforced RBAC through granular least-privilege policies and configured WAF rules to defend against SQLi, XSS, and DDoS threats.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="#contact">Inquire ↗</a>
@@ -286,7 +286,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-orange">WAF</span><span class="tag tag-green">OCI</span><span class="tag tag-blue">Networking</span></div>
         <div class="project-title">Deploying an OCI Web Application Firewall</div>
-        <p class="project-desc">Step-by-step guide configuring a load balancer for a web server on OCI Compute and securing it with OCI WAF as part of a layered security strategy. Blog post pending Oracle publishing review.</p>
+        <p style="color:white;"class="project-desc">Step-by-step guide configuring a load balancer for a web server on OCI Compute and securing it with OCI WAF as part of a layered security strategy. Blog post pending Oracle publishing review.</p>
       </div>
       <div class="project-links">
         <span class="badge-coming">Coming soon</span>
@@ -297,7 +297,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-blue">VMware</span><span class="tag tag-purple">Migration</span></div>
         <div class="project-title">VMware-to-OCI Migration Framework</div>
-        <p class="project-desc">RVTools-based discovery pipeline for CPU sizing ratios across Intel Xeon generations, OCVS vs. cloud-native cost estimates, and VDI scoping. Delivered in enterprise pre-sales engagements with detailed migration path comparisons (RackWare vs. Cloud Engineering Services).</p>
+        <p style="color:white;"class="project-desc">RVTools-based discovery pipeline for CPU sizing ratios across Intel Xeon generations, OCVS vs. cloud-native cost estimates, and VDI scoping. Delivered in enterprise pre-sales engagements with detailed migration path comparisons (RackWare vs. Cloud Engineering Services).</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="#contact">Inquire ↗</a>
@@ -308,7 +308,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-orange">Malware Analysis</span><span class="tag tag-blue">OSINT</span><span class="tag tag-purple">Security</span></div>
         <div class="project-title">Static & Dynamic Malware Analysis</div>
-        <p class="project-desc">Two-part analysis of a keylogger executable and Python script. Static: PE header inspection, hash verification via VirusTotal, IOC extraction. Dynamic: Windows Defender evasion via obfuscation and packing, real-time behavior observation in an isolated VM, and persistence mechanism identification.</p>
+        <p style="color:white;"class="project-desc">Two-part analysis of a keylogger executable and Python script. Static: PE header inspection, hash verification via VirusTotal, IOC extraction. Dynamic: Windows Defender evasion via obfuscation and packing, real-time behavior observation in an isolated VM, and persistence mechanism identification.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="https://youtu.be/vjDuOHOMlJc?si=TqcFx6O982eB3LV_" target="_blank">Static demo ↗</a>
@@ -320,7 +320,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-green">Oracle APEX</span><span class="tag tag-blue">SQL</span><span class="tag tag-purple">App Dev</span></div>
         <div class="project-title">Coffee Chats — OCI Matching App</div>
-        <p class="project-desc">Matching application built in Oracle APEX to facilitate weekly virtual coffee chats. Implemented random pairing algorithms in SQL to prevent repeat matches and factor in user preferences. Designed and optimized queries for profile retrieval, match history, and pairing status at scale.</p>
+        <p style="color:white;"class="project-desc">Matching application built in Oracle APEX to facilitate weekly virtual coffee chats. Implemented random pairing algorithms in SQL to prevent repeat matches and factor in user preferences. Designed and optimized queries for profile retrieval, match history, and pairing status at scale.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="#contact">Inquire ↗</a>
@@ -331,7 +331,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-purple">AI</span><span class="tag tag-blue">Education</span><span class="tag tag-green">Slides</span></div>
         <div class="project-title">Cloud & AI Foundations Presentation</div>
-        <p class="project-desc">A 40–45 minute talk covering IaaS/PaaS/SaaS, deployment models, AI umbrella layers, agentic AI, and AI ethics — designed for entry-level finance and data professionals. Includes full presenter script and custom design system.</p>
+        <p style="color:white;"class="project-desc">A 40–45 minute talk covering IaaS/PaaS/SaaS, deployment models, AI umbrella layers, agentic AI, and AI ethics — designed for entry-level finance and data professionals. Includes full presenter script and custom design system.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="#contact">Request deck ↗</a>
