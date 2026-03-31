@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Winter Kay — Solutions Engineer</title>
+<title>McKenzie Holliday — Solutions Engineer</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet" />
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -182,17 +182,16 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   </div>
 </nav>
 
-<div style="max-width:960px;margin:0 auto;position:relative;">
+<div style="max-width:940px;margin:0 auto;position:relative;">
   <div class="hero-grid"></div>
 </div>
 
 <div class="hero">
   <div class="hero-tag">Senior Solutions Engineer</div>
-  <h1>Building at the<br>edge of <em>cloud</em><br>and complexity.</h1>
+  <h2>Building at the<br>edge of <em>cloud</em><br>and complexity.</h2>
   <p class="hero-sub">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
   <div class="hero-cta">
     <a class="btn btn-primary" href="#projects">View my work</a>
-    <a class="btn btn-outline" href="https://mkaynz.github.io" target="_blank">mkaynz.github.io ↗</a>
   </div>
 </div>
 
