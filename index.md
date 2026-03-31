@@ -187,7 +187,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
 <div class="hero">
   <div class="hero-tag">Senior Solutions Engineer</div>
   <h2><strong> Building at the<br>edge of <em>cloud</em><br>and complexity.</strong></h2>
-  <p class="hero-sub">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
+  <p style="color:red;">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
   <div class="hero-cta">
     <a class="btn btn-primary" href="#projects">View my work</a>
   </div>
@@ -200,7 +200,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
     <div class="about-text">
       <p style="color:white;">I'm a Senior Solutions Engineer at Oracle with 7 years in technology. Experience in cloud infrastructure, pre-sales engineering, AI, and security. I operate at the intersection of Sales, Customer Success, Product, and Engineering — translating complex technical architecture into clear business value.</p>
       <br>
-      <p>My work spans cloud services and platforms — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
+      <p style="color:white;">My work spans cloud services and platforms — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
       <br>
     </div>
     <div class="about-stats">
@@ -242,7 +242,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-purple">Agentic AI</span><span class="tag tag-blue">MCP</span></div>
         <div class="project-title">Agentic AI Solution on OCI</div>
-        <p class="project-desc">End-to-end agentic AI demo built entirely on Oracle Cloud Infrastructure — includes a working agentic AI solution, architecture walkthrough, and an exploration of how MCP improves the workflow. Deployed with Terraform/IaC and a Node.js backend.</p>
+        <p style="color:white;" class="project-desc">End-to-end agentic AI demo built entirely on Oracle Cloud Infrastructure — includes a working agentic AI solution, architecture walkthrough, and an exploration of how MCP improves the workflow. Deployed with Terraform/IaC and a Node.js backend.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="https://objectstorage.us-ashburn-1.oraclecloud.com/p/e-Be2JuPDlD8UgxIxie6QqLfjGoeDMEuyLrL9CPAmDbbY8l9HTOKHvyyAksolxIP/n/idvum1adtfhr/b/AI-demos/o/oci-odaOCI-AgenticAI.mp4" target="_blank">Watch demo ↗</a>
