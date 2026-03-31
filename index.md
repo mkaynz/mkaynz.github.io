@@ -186,7 +186,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
 
 <div class="hero">
   <div class="hero-tag">Senior Solutions Engineer</div>
-  <h2>Building at the<br>edge of <em>cloud</em><br>and complexity.</h2>
+  <h2><strong> Building at the<br>edge of <em>cloud</em><br>and complexity.</strong></h2>
   <p class="hero-sub">I help organizations architect, migrate, and scale cloud infrastructure — turning technical depth into business outcomes across OCI, AWS, and Azure.</p>
   <div class="hero-cta">
     <a class="btn btn-primary" href="#projects">View my work</a>
