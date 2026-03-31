@@ -42,10 +42,12 @@ nav {
 
 .hero {
   min-height: 100vh;
-  display: flex; flex-direction: column; justify-content: center;
-  padding: 6rem 2.5rem 4rem;
-  max-width: 960px; margin: 0 auto;
-  position: relative;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center;
+  padding: 0 2.5rem; /* Remove the 6rem top padding */
+  max-width: 960px; 
+  margin: 0 auto;
 }
 .hero-tag {
   display: inline-flex; align-items: center; gap: 0.5rem;
@@ -169,6 +171,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
 }
 </style>
 </head>
+
 <body>
 
 <nav>
