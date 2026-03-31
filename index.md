@@ -172,7 +172,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
 <body>
 
 <nav>
-  <div class="nav-logo">winter<span>.</span>kay</div>
   <div class="nav-links">
     <a href="#about">about</a>
     <a href="#projects">projects</a>
