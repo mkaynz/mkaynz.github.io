@@ -444,10 +444,3 @@ function filter(tag, btn) {
 
 </body>
 </html>
-
-
-
-![Secure Architecture](https://github.com/user-attachments/assets/3c767b38-000a-4284-9e62-d7036c4f3f26)
-
-
-
