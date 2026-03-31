@@ -204,7 +204,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <br>
       <p>My work spans <strong>OCI, AWS, and Azure</strong> — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
       <br>
-      <p>Outside of work I'm chasing monthly running goals, writing a dystopian tech fiction novel, and learning French.</p>
     </div>
     <div class="about-stats">
       <div class="stat-card">
@@ -417,13 +416,13 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <a class="contact-link" href="https://mkaynz.github.io" target="_blank">Portfolio ↗</a>
       <a class="contact-link" href="https://github.com/mkaynz" target="_blank">GitHub ↗</a>
       <a class="contact-link" href="https://linkedin.com" target="_blank">LinkedIn ↗</a>
-      <a class="contact-link" href="mailto:hello@winterkay.dev">hello@winterkay.dev ↗</a>
+      <a class="contact-link" href="mailto:hello@wmckenzie.dev">hello@mckenzie.dev ↗</a>
     </div>
   </div>
 </section>
 
 <footer>
-  <p>Built with intention. Winter Kay © 2026.</p>
+  <p>Built with intention. McKenzie © 2026.</p>
 </footer>
 
 <script>
