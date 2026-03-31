@@ -237,7 +237,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   </div>
 
   <div class="projects-grid">
-
     <div class="project-card" data-tags="ai cloud">
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-purple">Agentic AI</span><span class="tag tag-blue">MCP</span></div>
@@ -248,7 +247,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="https://objectstorage.us-ashburn-1.oraclecloud.com/p/e-Be2JuPDlD8UgxIxie6QqLfjGoeDMEuyLrL9CPAmDbbY8l9HTOKHvyyAksolxIP/n/idvum1adtfhr/b/AI-demos/o/oci-odaOCI-AgenticAI.mp4" target="_blank">Watch demo ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="ai public-sector">
       <div>
         <div><span class="tag tag-purple">AI</span><span class="tag tag-blue">Public Sector</span><span class="tag tag-green">OCI</span></div>
@@ -259,7 +257,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="https://blogs.oracle.com/ai-and-datascience/public-sector-innovation-oci-state-and-local-agencies" target="_blank">Read post ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="ai public-sector security">
       <div>
         <div><span class="tag tag-purple">AI/ML</span><span class="tag tag-orange">Security</span><span class="tag tag-blue">Public Sector</span></div>
@@ -270,7 +267,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="https://blogs.oracle.com/cloud-infrastructure/post/emphasis-on-aiml-security-in-the-public-sector" target="_blank">Read post ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="cloud security">
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-orange">IAM</span><span class="tag tag-blue">WAF</span></div>
@@ -281,7 +277,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="#contact">Inquire ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="cloud security">
       <div>
         <div><span class="tag tag-orange">WAF</span><span class="tag tag-green">OCI</span><span class="tag tag-blue">Networking</span></div>
@@ -292,7 +287,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <span class="badge-coming">Coming soon</span>
       </div>
     </div>
-
     <div class="project-card" data-tags="cloud">
       <div>
         <div><span class="tag tag-green">OCI</span><span class="tag tag-blue">VMware</span><span class="tag tag-purple">Migration</span></div>
@@ -303,7 +297,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="#contact">Inquire ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="security">
       <div>
         <div><span class="tag tag-orange">Malware Analysis</span><span class="tag tag-blue">OSINT</span><span class="tag tag-purple">Security</span></div>
@@ -315,7 +308,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="https://youtu.be/RvHy83w9o5A?si=A4rtUoZElggDOkA1" target="_blank">Dynamic demo ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="cloud ai">
       <div>
         <div><span class="tag tag-green">Oracle APEX</span><span class="tag tag-blue">SQL</span><span class="tag tag-purple">App Dev</span></div>
@@ -326,12 +318,11 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <a class="project-link" href="#contact">Inquire ↗</a>
       </div>
     </div>
-
     <div class="project-card" data-tags="ai">
       <div>
         <div><span class="tag tag-purple">AI</span><span class="tag tag-blue">Education</span><span class="tag tag-green">Slides</span></div>
         <div class="project-title">Cloud & AI Foundations Presentation</div>
-        <p style="color:white;"class="project-desc">A 40–45 minute talk covering IaaS/PaaS/SaaS, deployment models, AI umbrella layers, agentic AI, and AI ethics — designed for entry-level finance and data professionals. Includes full presenter script and custom design system.</p>
+        <p style="color:white;"class="project-desc"> A 40–45 minute talk covering IaaS/PaaS/SaaS, deployment models, AI umbrella layers, agentic AI, and AI ethics — designed for entry-level finance and data professionals. Includes full presenter script and custom design system.</p>
       </div>
       <div class="project-links">
         <a class="project-link" href="#contact">Request deck ↗</a>
@@ -359,7 +350,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
       <div class="skill-list">
         <div class="skill-item">Terraform / IaC</div>
         <div class="skill-item">Kubernetes</div>
-        <div class="skill-item">Node.js</div>
+        <div class="skill-item">Scripting</div>
         <div class="skill-item">RVTools / migration tooling</div>
       </div>
     </div>
@@ -396,7 +387,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
         <div class="skill-item">Sales & customer success</div>
         <div class="skill-item">Technical content & blogging</div>
         <div class="skill-item">Technical education & speaking</div>
-        <div class="skill-item">CS & Mathematics (BA)</div>
       </div>
     </div>
   </div>
@@ -408,7 +398,6 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   <div class="contact-wrap">
     <div class="contact-copy">
       <h3>Let's work together.</h3>
-
     </div>
     <div class="contact-links">
       <a class="contact-link" href="https://mkaynz.github.io" target="_blank">Portfolio ↗</a>
