@@ -198,7 +198,7 @@ footer { border-top: 1px solid var(--border); padding: 2rem 2.5rem; text-align: 
   <h2>Who I am</h2>
   <div class="about-grid">
     <div class="about-text">
-      <p>I'm a Senior Solutions Engineer at Oracle with 7 years in technology. Experience in cloud infrastructure, pre-sales engineering, AI, and security. I operate at the intersection of Sales, Customer Success, Product, and Engineering — translating complex technical architecture into clear business value.</p>
+      <p style="color:white;">I'm a Senior Solutions Engineer at Oracle with 7 years in technology. Experience in cloud infrastructure, pre-sales engineering, AI, and security. I operate at the intersection of Sales, Customer Success, Product, and Engineering — translating complex technical architecture into clear business value.</p>
       <br>
       <p>My work spans cloud services and platforms — from VMware-to-OCI migrations and cloud-native architecture to GenAI tooling, security engineering, and agentic AI demos. I hold a BA in Computer Science & Mathematics from the University of Memphis.</p>
       <br>
