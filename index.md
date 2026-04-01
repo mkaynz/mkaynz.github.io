@@ -41,13 +41,14 @@ nav {
 .nav-links a:hover { color: var(--accent); }
 
 .hero {
-  min-height: 100vh;
+  min-height: calc(100vh - 60px);
   display: flex; 
   flex-direction: column; 
   justify-content: center;
   padding: 5rem 2.5rem 2.5rem;
   max-width: 960px; 
   margin: 0 auto;
+  margin-top: 60px;
 }
 .hero-tag {
   display: inline-flex; align-items: center; gap: 0.5rem;
