@@ -45,7 +45,7 @@ nav {
   display: flex; 
   flex-direction: column; 
   justify-content: center;
-  padding: 0 2.5rem; /* Remove the 6rem top padding */
+  padding: 5rem 2.5rem 2.5rem;
   max-width: 960px; 
   margin: 0 auto;
 }
